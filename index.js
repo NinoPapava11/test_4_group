@@ -13,3 +13,16 @@ function greet(name) {
   return `Hello, ${name}!`;
 }
 console.log(greet("World"));
+
+console.log("Welcome to the main branch!");
+
+
+function greet2(name, timeOfDay) {
+  return `Good ${timeOfDay}, ${name}!`;
+}
+console.log(greet2("Alice", "morning"));
+
+function farewell(name) {
+  return `Goodbye, ${name}!`;
+}
+console.log(farewell("Alice"));
