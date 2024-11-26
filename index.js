@@ -8,4 +8,8 @@
 
 // პრობლემა #10 
 
-const userName = 'John';
+console.log("Welcome to the main branch!");
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+console.log(greet("World"));
