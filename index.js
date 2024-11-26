@@ -22,7 +22,15 @@ function greet2(name, timeOfDay) {
 }
 console.log(greet2("Alice", "morning"));
 
+
 function farewell(name) {
   return `Goodbye, ${name}!`;
 }
 console.log(farewell("Alice"));
+
+
+
+function greet4(name) {
+  return `Hello, ${name}!`;
+}
+console.log(greet4("name......"));
