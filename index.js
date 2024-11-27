@@ -8,7 +8,8 @@
 
 // პრობლემა #10 
 
-//დავხურავ ალბათ 20 და 21ს
+// ragaca cvlileba
+
 console.log("Welcome to the main branch!");
 function greet(name) {
   return `Hello, ${name}!`;
