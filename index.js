@@ -17,7 +17,7 @@ function greet(name) {
 }
 console.log(greet("World"));
 
-console.log("Welcome to the main branch!");
+console.log("Welcome to the main branch!"); /////vtestav
 
 
 function greet2(name, timeOfDay) {
@@ -36,5 +36,7 @@ console.log(farewell("Alice"));
 function greet4(name) {
   return `Hello, ${name}!`;
 }
-console.log(greet4("name......"));
-////////
+
+// ეს იქნება შეცვლილი მეილით დაკომიტებული ფაილი
+
+console.log(greet4("name......")); // test
