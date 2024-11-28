@@ -3,8 +3,6 @@
 
 // ამ commit-ით მინდა დავხურო #5 issue
 
-// ამ კომიტით მინდა დავხურო ახალი issue - nino
-
 // ამით მინდა დავასრულო #4 პრობლემა
 
 // პრობლემა #10 
@@ -40,3 +38,6 @@ function greet4(name) {
 // ეს იქნება შეცვლილი მეილით დაკომიტებული ფაილი
 
 console.log(greet4("name......")); // test
+console.log(greet4("name......"));
+////////
+//shbsbcjsbhjc
