@@ -40,3 +40,6 @@ function greet4(name) {
 // ეს იქნება შეცვლილი მეილით დაკომიტებული ფაილი
 
 console.log(greet4("name......")); // test
+console.log(greet4("name......"));
+////////
+//shbsbcjsbhjc
