@@ -8,6 +8,7 @@
 // პრობლემა #10 
 
 // ragaca cvlileba
+// 1 1
 
 console.log("Welcome to the main branch!");
 function greet(name) {
